@@ -6,33 +6,33 @@ jQuery(".prettyphoto").prettyPhoto({
 });
 
   /* Work Block Icons in Pretty Photo*/
-  
-$(".works-item").hover(function(){ 
+
+$(".works-item").hover(function(){
 	$(this).find(".works-social").slideDown(350);
 }, function (){
 	$(this).find(".works-social").slideUp(350);
 });
-  
+
   /* Click Function for Social media in Friends Block */
-	
+
 $(".friend-item a").click(function(e){
 	e.preventDefault();
 	$(this).next(".friend-social").fadeToggle();
- }); 
-  
+ });
+
   /* Click Ends */
- 
+
   /* Animation */
-  
+
   /* Header */
-  
+
 $('.main-head').addClass('animation bounceIn');
 
 $('.head-left').waypoint(function(down) {
 	$(this).addClass('animation');
 	$(this).addClass('fadeInLeft');
 }, { offset: '70%' });
-	
+
 $('.head-bottom').waypoint(function(down) {
 	$(this).addClass('animation');
 	$(this).addClass('bounceInUp');
@@ -71,7 +71,7 @@ $('.status-item h5').waypoint(function(down) {
 
 $('.progress-bar').waypoint(function(down) {
 	if(!$(this).hasClass("pfinish"))
-	{	
+	{
 		var $pvalue = $(this).attr("data-limit");
 		$(this).animate({
 			width: $pvalue+"%" },800);
@@ -137,7 +137,7 @@ $(function(){
 	  if ($(this).scrollTop()>500)
 	  {
 		$('.gotop').fadeIn();
-	  } 
+	  }
 	  else
 	  {
 		$('.gotop').fadeOut();
@@ -152,8 +152,8 @@ $(function(){
 });
 
   /* Scroll Ends */
-  
- 
+
+
   /* Contact Slider */
 
 $(".slider-button").click(function(e) {
@@ -163,15 +163,13 @@ $(".slider-button").click(function(e) {
     if($slidebox.css('left')=="-400px"){
       $slidebox.animate({
         left:0
-      },500); 
+      },500);
     }
     else{
       $slidebox.animate({
         left:-400
       },500);
     }
-});		
+});
 
   /* Contact Slider Ends */
- 
-

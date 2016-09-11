@@ -120,7 +120,7 @@ hr{
 
 .pink{
 	color:#eb76cb !important;
-}	
+}
 
 .orange{
 	color:#f7a253 !important;
@@ -205,7 +205,7 @@ hr{
 
 .btn i{
 	margin-right:2px;
-}	
+}
 
 .btn.btn-default{
 	background:#f9f9f9;
@@ -368,21 +368,21 @@ header h1{
 	opacity:0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	animation-duration: 1s;
-    animation-delay:2s;
+    /*animation-delay:2s;
     -webkit-animation-duration: 1s;
     -webkit-animation-delay: 2s;
     -moz-animation-duration: 1s;
     -moz-animation-delay:2s;
     -ms-animation-duration: 1s;
     -ms-animation-delay: 2s;
-    -o-animation-duration: 1s;    
-    -o-animation-delay: 2s;
-}	
-	
+    -o-animation-duration: 1s;
+    -o-animation-delay: 2s;*/
+}
+
 header h2{
 	font-family: 'Inder', sans-serif;
 	font-size:25px;
-}	
+}
 
 header h2 label{
 	font-family: 'Pacifico', cursive;
@@ -406,20 +406,20 @@ header .head-bar .head-item{
 	opacity:0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	animation-duration: 1s;
-    animation-delay:3s;
+    /*animation-delay:3s;
     -webkit-animation-duration: 1s;
     -webkit-animation-delay: 3s;
     -moz-animation-duration: 1s;
     -moz-animation-delay:3s;
     -ms-animation-duration: 1s;
     -ms-animation-delay: 3s;
-    -o-animation-duration: 1s;    
-    -o-animation-delay: 3s; 
+    -o-animation-duration: 1s;
+    -o-animation-delay: 3s; */
 }
 
 header .head-bar .head-item h3{
 	font-weight:bold;
-	font-size:140px;
+	font-size:100px;
 	text-align:center;
 	color:#666;
 }
@@ -449,19 +449,19 @@ header p{
 	margin-bottom:40px;
 }
 
-header .technology{
+.technology{
 	margin-top:10px;
 	margin-bottom:10px;
 }
 
-header .technology h4{
+.technology h4{
 	font-family: 'Open Sans Condensed', sans-serif;
 	font-weight:bold;
 	display:inline-block;
 	margin-bottom:40px;
 }
 
-header .technology span {
+.technology span {
 	font-size:13px;
 	color:#fff;
 	font-weight:bold;
@@ -493,20 +493,22 @@ header .head-button .btn-group .btn{
 	position:relative;
 	opacity:0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
-	animation-duration: 1s;
-    animation-delay:0s;
+	animation-duration: 0s;
+    /*animation-delay:0s;
     -webkit-animation-duration: 1s;
     -webkit-animation-delay: 0s;
     -moz-animation-duration: 1s;
     -moz-animation-delay:0s;
     -ms-animation-duration: 1s;
     -ms-animation-delay: 0s;
-    -o-animation-duration: 1s;    
-    -o-animation-delay: 0s; 
-} 
+    -o-animation-duration: 1s;
+    -o-animation-delay: 0s;*/
+}
 
 .works .works-item img{
 	border-radius:5px;
+	height: 125px;
+	width: 200px;
 }
 
 .works .works-item h4{
@@ -553,7 +555,7 @@ div.ppt {
 	line-height:125px;
 	border-radius:100px;
 	box-shadow:inset 0px 0px 4px #aaa;
-	margin-bottom:15px;	
+	margin-bottom:15px;
 }
 
 .status .item-head h5{
@@ -685,7 +687,7 @@ div.ppt {
     -moz-animation-delay:0s;
     -ms-animation-duration: 1s;
     -ms-animation-delay: 0s;
-    -o-animation-duration: 1s;    
+    -o-animation-duration: 1s;
     -o-animation-delay: 0s;
 }
 
@@ -710,7 +712,7 @@ div.ppt {
 /* Testimonials starts */
 
 .testimonials{
-	padding-bottom:120px; 	
+	padding-bottom:120px;
 }
 
 .testimonials .test-item{
@@ -727,45 +729,45 @@ div.ppt {
 	opacity:0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	animation-duration: 1s;
-    animation-delay:0s;
+    /*animation-delay:0s;
     -webkit-animation-duration: 1s;
     -webkit-animation-delay: 0s;
     -moz-animation-duration: 1s;
     -moz-animation-delay:0s;
     -ms-animation-duration: 1s;
     -ms-animation-delay: 0s;
-    -o-animation-duration: 1s;    
-    -o-animation-delay: 0s;
+    -o-animation-duration: 1s;
+    -o-animation-delay: 0s;*/
 }
 
 .testimonials .test-two{
 	opacity:0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	animation-duration: 1s;
-    animation-delay:0.5s;
+    /*animation-delay:0.5s;
     -webkit-animation-duration: 1s;
     -webkit-animation-delay: 0.5s;
     -moz-animation-duration: 1s;
     -moz-animation-delay:0.5s;
     -ms-animation-duration: 1s;
     -ms-animation-delay: 0.5s;
-    -o-animation-duration: 1s;    
-    -o-animation-delay: 0.5s;
+    -o-animation-duration: 1s;
+    -o-animation-delay: 0.5s;*/
 }
 
 .testimonials .test-three{
 	opacity:0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	animation-duration: 1s;
-    animation-delay:1s;
+    /*animation-delay:1s;
     -webkit-animation-duration: 1s;
     -webkit-animation-delay: 1s;
     -moz-animation-duration: 1s;
     -moz-animation-delay:1s;
     -ms-animation-duration: 1s;
     -ms-animation-delay: 1s;
-    -o-animation-duration: 1s;    
-    -o-animation-delay: 1s;
+    -o-animation-duration: 1s;
+    -o-animation-delay: 1s;*/
 }
 
 .testimonials .test-item:after, .testimonials .test-item:before {
@@ -850,15 +852,15 @@ div.ppt {
 	opacity:0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	animation-duration: 1s;
-    animation-delay:0s;
+    /*animation-delay:0s;
     -webkit-animation-duration: 1s;
     -webkit-animation-delay: 0s;
     -moz-animation-duration: 1s;
     -moz-animation-delay:0s;
     -ms-animation-duration: 1s;
     -ms-animation-delay: 0s;
-    -o-animation-duration: 1s;    
-    -o-animation-delay: 0s;
+    -o-animation-duration: 1s;
+    -o-animation-delay: 0s;*/
 }
 
 .friend .friend-item img{
@@ -919,7 +921,7 @@ div.ppt {
 /* Profiles Starts */
 
 .profiles .profile-content{
-	background:#fff;	
+	background:#fff;
 	border:1px solid #ccc;
 	padding:4px;
 	border-radius:5px;
@@ -1012,7 +1014,7 @@ div.ppt {
 .be .experience .exp-item{
 	margin-bottom:20px;
 }
-	
+
 .be .experience .exp-item h4{
 	margin:0px;
 	margin-bottom:10px;
@@ -1050,8 +1052,8 @@ div.ppt {
     -moz-animation-delay:0s;
     -ms-animation-duration: 1s;
     -ms-animation-delay: 0s;
-    -o-animation-duration: 1s;    
-    -o-animation-delay: 0s; 
+    -o-animation-duration: 1s;
+    -o-animation-delay: 0s;
 }
 
 .love h2{
@@ -1059,8 +1061,8 @@ div.ppt {
 	text-transform:uppercase;
 	font-size:65px;
 	font-weight:bold;
-}	
-	
+}
+
 /* Love Ends */
 
 /* Contact Starts */
@@ -1082,7 +1084,7 @@ div.ppt {
     -moz-animation-delay:0s;
     -ms-animation-duration: 1s;
     -ms-animation-delay: 0s;
-    -o-animation-duration: 1s;    
+    -o-animation-duration: 1s;
     -o-animation-delay: 0s;
 }
 
@@ -1112,7 +1114,7 @@ div.ppt {
     -moz-animation-delay:0s;
     -ms-animation-duration: 1s;
     -ms-animation-delay: 0s;
-    -o-animation-duration: 1s;    
+    -o-animation-duration: 1s;
     -o-animation-delay: 0s;
 }
 
@@ -1168,7 +1170,7 @@ div.ppt {
     -moz-animation-delay:0s;
     -ms-animation-duration: 1s;
     -ms-animation-delay: 0s;
-    -o-animation-duration: 1s;    
+    -o-animation-duration: 1s;
     -o-animation-delay: 0s;
 }
 
@@ -1244,7 +1246,7 @@ footer p{
 	bottom: 0;
 	right: 0;
 	z-index: 104400;
-	background: #ef4848; 
+	background: #ef4848;
 }
 
 .gotop a, .gotop a:visited{
@@ -1281,12 +1283,12 @@ footer p{
 }
 
 .slide-bar .contact-form{
-	border:1px dashed #ccc;	
+	border:1px dashed #ccc;
 	border-radius:3px;
 	padding:15px 15px 10px 15px;
 	margin:0 auto;
-}	
-	
+}
+
 .slide-bar .contact-form h2{
 	padding-bottom:5px;
 	margin:0px;
@@ -1332,78 +1334,78 @@ footer p{
 		max-width:600px;
 		margin:0 auto !important;
 	}
-	
+
 	header .head-bar .head-item h3{
-		font-size:120px;
+		font-size:100px;
 	}
-	
+
 	header .head-bar .head-item h4{
 		font-size:28px;
 	}
 
 	header .head-bar .head-item h6{
 		font-size:110px;
-		margin-top:30px;
+		margin-top:9px;
 	}
-	
+
 	.works .works-item{
 		max-width:310px;
 		margin:0 auto;
 		margin-top:20px;
 		margin-bottom:20px;
 	}
-	
+
 	.works .works-item .works-media{
 		width:96.6%;
 		left:1.8%;
 	}
-	
+
 	.works .works-item .works-media a i{
 		margin-top:20px;
 	}
-	
+
 	.service .service-item{
 		max-width:250px;
 		margin:0 auto;
 		margin-top:20px;
 		margin-bottom:20px;
 	}
-	
+
 	.testimonials{
 		padding-bottom:50px;
 	}
-	
+
 	.testimonials .test-item{
 		max-width:300px;
 		margin:0 auto;
 		margin-top:20px;
 		margin-bottom:100px;
 	}
-	
+
 	.testimonials .test-item h5{
 		text-align:center !important;
 		margin-top:13px;
 		text-align:right;
 	}
-	
+
 	.friend .friend-item{
 		margin-bottom:35px;
 	}
-	
+
 	.profiles .profile-content{
 		max-width:600px;
 		margin:0 auto;
 		margin-bottom:30px;
 	}
-	
+
 	.profiles .profile-detail table{
 		margin-bottom:7px;
 	}
-	
+
 	.profiles .profile-detail img{
 		margin-left:10px;
 	}
-	
+
 	.contact .contact-item{
 		max-width:300px;
 		margin:0 auto;
@@ -1414,21 +1416,21 @@ footer p{
 /* Tablets */
 @media (max-width: 767px){
 
-	
+
 	header p{
 		padding-left:3px;
 		padding-right:3px;
 	}
-	
+
 	header .head-bar{
 		max-width:500px !important;
 		margin:0 auto !important;
 	}
-	
+
 	header .head-bar .head-item h3{
 		font-size:100px;
 	}
-	
+
 	header .head-bar .head-item h4{
 		font-size:25px;
 	}
@@ -1436,81 +1438,81 @@ footer p{
 	header .head-bar .head-item h6{
 		font-size:90px !important;
 	}
-	
+
 	.status .status-content {
 		margin-bottom:25px;
 	}
-	
+
 	.status .status-item-large{
 		margin-bottom:20px;
 	}
-	
+
 	.status .sleft{
 		margin-top:0px;
 	}
-	
+
 	.service .service-item{
 		margin-bottom:30px;
 	}
-	
+
 	.friend .friend-item{
 		margin-bottom:30px;
 	}
-	
+
 	.profiles .profile-detail.table-responsive{
 		border:0px !important;
 	}
-	
+
 	.profiles .profile-detail img{
 		margin-bottom:15px;
 	}
-	
+
 	.profiles .profile-detail table{
 		margin-left:30px;
 	}
-	
+
 	.profiles .profile-detail .table-responsive{
 		border:none;
 	}
-	
+
 	.be .blog{
 		max-width:500px;
 		margin:0 auto;
 	}
-	
+
 	.be .experience{
 		max-width:500px;
 		margin:0 auto;
 	}
-	
+
 	.love h2{
 		font-size:40px;
 	}
-	
+
 	.contact h3{
 		width:400px;
 		font-size:50px;
 	}
-	
+
 	.contact h3 span i{
 		font-size:30px;
 	}
-	
+
 	.contact .contact-item{
 		margin:0 auto;
 		margin-bottom:30px;
 	}
-	
+
 	.bottom-nav ul li{
 		font-size:13px;
 		height:auto !important;
 		line-height:30px;
 	}
-	
+
 	.slide-bar{
 		display:none;
 	}
-	
+
 }
 
 
@@ -1520,24 +1522,24 @@ footer p{
 	.navigation .nav-list{
 		height:auto;
 	}
-	
+
 	header h5{
 		font-size:12px;
 	}
-	
-	header .technology i{
+
+	.technology i{
 		margin-right:2px;
 	}
-	
+
 	header .head-bar{
 		max-width:300px !important;
 		margin:0 auto !important;
 	}
-	
+
 	header .head-bar .head-item h3{
 		font-size:70px !important;
 	}
-	
+
 	header .head-bar .head-item h4{
 		font-size:15px;
 	}
@@ -1545,32 +1547,32 @@ footer p{
 	header .head-bar .head-item h6{
 		font-size:60px !important;
 	}
-	
+
 	header .head-button .btn-group{
 		margin-top:15px;
 	}
-	
+
 	.testimonials img{
 		left:79%;
 	}
-	
+
 	.love h2{
 		font-size:27px;
 	}
-	
+
 	.be .blog .blog-item h3{
 		font-size:18px;
 	}
-	
+
 	.be .blog .blog-item a span{
 		font-size:11px;
 	}
-	
+
 	.contact h3{
 		width:300px;
 		font-size:36px;
 	}
-	
+
 	.contact h3 span i{
 		font-size:22px;
 		top:-5px;
@@ -1578,50 +1580,50 @@ footer p{
 }
 
 @media (max-width: 350px){
-	
+
 	header h1{
 		font-size:60px;
 	}
-	
+
 	header h5{
 		font-size:9px;
 	}
-	
+
 	header .head-bar{
 		max-width:200px !important;
 		margin:0 auto !important;
 	}
-	
+
 	header .head-bar .head-item h3{
 		font-size:40px !important;
 	}
-	
+
 	header .head-bar .head-item h4{
 		font-size:12px;
 	}
 
 	header .head-bar .head-item h6{
 		font-size:30px !important;
-	}	
-	
+	}
+
 	.testimonials .test-item h4{
 		font-size:11px;
 	}
-	
+
 	.love h2{
 		font-size:22px;
 	}
-	
-	
+
+
 	.be .blog .blog-item a {
 		line-height:28px;
 	}
-	
+
 	.contact h3{
 		width:200px;
 		font-size:30px;
 	}
-	
+
 	.contact h3 span i{
 		font-size:20px;
 	}
