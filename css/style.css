@@ -812,14 +812,15 @@ div.ppt {
 	font-weight:bold;
 }
 
-.testimonials .test-item img{
-	width:45px;
+img.about{
+	width:200px;
 	padding:2px;
 	border:1px solid #ddd;
 	margin-top:25px;
-	position:absolute;
+	margin-bottom: 25px;
+	/*position:absolute;
 	left:81%;
-	top:90%;
+	top:90%;*/
 }
 
 .testimonials .test-item .test-meta{
