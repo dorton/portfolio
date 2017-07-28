@@ -1,0 +1,129 @@
+{
+  "basics": {
+    "name": "Brian Dorton",
+    "label": "Developer",
+    "picture": "https://avatars1.githubusercontent.com/u/662645?v=4&s=460",
+    "email": "brian@dorton.co",
+    "phone": "(713) 922-5440",
+    "website": "http://dorton.co",
+    "location": {
+      "address": "2005 Lavender Hills",
+      "postalCode": "77581",
+      "city": "Pearland",
+      "countryCode": "US",
+      "region": "Texas"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "badorton",
+        "url": "https://twitter.com/badorton"
+      },
+      {
+        "network": "Github",
+        "username": "dorton",
+        "url": "github.com/dorton"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "brian-dorton",
+        "url": "https://www.linkedin.com/in/brian-dorton"
+      }
+    ]
+  },
+  "skills": [
+    {
+      "name": "Front End",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "React"
+      ]
+    },
+    {
+      "name": "Back End",
+      "keywords": [
+        "Ruby",
+        "Node",
+        "Python",
+        "Postgres"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "dorton.co",
+      "position": "Freelance Web Developer",
+      "website": "http://dorton.co",
+      "startDate": "2011-9-01",
+      "summary": "Develop applications for both clients and internal applications for companies.",
+      "highlights": [
+        "DocDel: Developed fullstack MVP for document and rights management for entertainment law firm",
+        "CarRiders: Developed application for an effiecient, safer alternative to school dismissal. Currently in place at 3 campuses",
+        "TIY Event Signin: Developed an event signin app that helps you glean patterns and data from attendees of your events. Currently used nationally at The Iron Yard"
+      ]
+    },
+    {
+      "company": "The Iron Yard",
+      "position": "Lead Campus Director",
+      "website": "http://theironyard.com",
+      "startDate": "2014-9-01",
+      "summary": "Running operations at The Iron Yard Academy's three-month intensive code schools personally focused on the Houston campus.",
+      "highlights": [
+        "Lead and contribute to company-wide initiatives that are aligned to The Iron Yard Mission and Vision",
+        "Support and manage a region of 6 campuses",
+        "Support campus level decisions ranging from student concerns to budget questions",
+        "Administer performance reviews"
+      ]
+    },
+    {
+      "company": "Houston Independent School District",
+      "position": "Campus Administrator",
+      "website": "http://houstonisd.org",
+      "startDate": "2011-8-01",
+      "endDate": "2014-8-30",
+      "summary": "",
+      "highlights": [
+        "Ensure federal compliance for campus Title I monies. Monitor campus free and reduced lunch program and applications.",
+        "Disaggregate and disseminate grade level common assessment data and district level assessment data as collected through the EdPlan system. Assist grade level teams in spotting trends using the data and designing interventions to address any gaps.",
+        "Ensure campus computers/mobile devices are maintained and running. Design and deliver technology professional development sessions to staff and beginning computer classes to parents. Oversee all campus technology initiatives."
+      ]
+    },
+    {
+      "company": "Houston Independent School District",
+      "position": "District Curriculum Specialist - Education Technology",
+      "website": "http://houstonisd.org",
+      "startDate": "2008-8-01",
+      "endDate": "2011-8-01",
+      "summary": "Support technology integration for one of the largest school districts in the US.",
+      "highlights": [
+        "Lead over 100 hours of trainings for teachers across the district on the technology integration.",
+        "Support campus level decisions ranging from student concerns to budget questions",
+        "Administer performance reviews"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Houston-Clear Lake",
+      "area": "Educational Management",
+      "studyType": "Master of Science",
+      "startDate": "2010-05-01",
+      "endDate": "2012-05-01"
+    },
+    {
+      "institution": "Texas A&M University",
+      "area": "Biomedical Science",
+      "studyType": "Bachelor of Science",
+      "startDate": "1996-08-01",
+      "endDate": "2000-12-01"
+    }
+  ],
+  "references": [
+    {
+      "name": "Caitlin Studley",
+      "reference": "I worked with Brian as both a direct report of his, and a colleague. Even after Brian was no longer my boss, he continued to mentor me and was always my go-to person for advice on difficult situations. He has a wealth of experience, and fully understands the delicate balance of getting the job done while managing everyone's expectations. He was a positive role model for everyone on our staff, relentless cheerleading us all to success. I will greatly miss working for and with him, and look forward to seeing where he lands next."
+    }
+  ]
+}
