@@ -5,9 +5,9 @@
 		<!-- Title here -->
 		<title>Brian Dorton</title>
 		<!-- Description, Keywords and Author -->
-		<meta name="description" content="Your description">
-		<meta name="keywords" content="Your,Keywords">
-		<meta name="author" content="ResponsiveWebInc">
+		<meta name="description" content="All about Brian Dorton">
+		<meta name="keywords" content="rails,developer,node,ruby,javascript,dorton">
+		<meta name="author" content="Brian Dorton">
 
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -346,24 +346,7 @@
 				<div class="slide-bar">
 					<div class="contact-form br-white">
 						<h2>Contact Form</h2>
-						<form action="https://formspree.io/hey@dorton.co" method="POST" >
-								<div class="form-group">
-									<label for="InputName">Name</label>
-							    <input type="text" name="name" class="form-control" placeholder="Enter Your Name">
-								</div>
-								<div class="form-group">
-									<label for="InputEmail">Email</label>
-							    <input type="email" class="form-control" name="_replyto" placeholder="Enter Your Email">
-								</div>
-								<div class="form-group">
-									<label for="InputTextarea">Message</label>
-									<textarea class="form-control" name="message" placeholder="Your message here"></textarea>
-								</div>
-								<input type="hidden" name="_next" value="http://dorton.co/portfolio/thanks.html" />
-								<div class="form-group">
-							    <input class="btn btn-danger btn-sm" type="submit" value="Send">
-								</div>
-						</form>
+						<div class="the-form"></div>
 						<div class="slider-button">
 							<a href="#"><img src="img/contact.png" class="img-responsive" alt=""/></a>
 						</div>
@@ -398,6 +381,16 @@
 		  ga('create', 'UA-84082572-1', 'auto');
 		  ga('send', 'pageview');
 		</script>
+			<script charset="utf-8" type="text/javascript" src="http://js.hsforms.net/forms/v2.js"></script>
+			<script>
+			  hbspt.forms.create({
+			    css: '',
+			    portalId: '3784780',
+			    formId: '3b212b60-3835-456e-ad90-b8c97f7eccc2',
+					target: '.the-form'
+			  });
+			</script>
+
 
 	</body>
 </html>
