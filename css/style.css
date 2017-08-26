@@ -21,6 +21,10 @@ h1,h2,h3,h4,h5,h6{
 	font-family: 'Open Sans Condensed', sans-serif;
 }
 
+#profile-pic:hover{
+	cursor: pointer;
+}
+
 p{
 	margin:0;
 	padding:0;
