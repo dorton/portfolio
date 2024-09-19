@@ -7,7 +7,7 @@
     "email": "brian@dorton.co",
     "phone": "(713) 922-5440",
     "url": "http://dorton.co",
-    "summary": "I specialize in developing and implementing technology solutions that drive business growth and operational efficiency. From creating a fully custom sales recommendation engine with a team of only 5 to automating data collection and building custom reporting tools, my focus is on delivering scalable, impactful results. With expertise in integrating systems like SalesForce and implementing modern CI tools, I thrive in leading development initiatives that align with company objectives and foster continuous innovation.",
+    "summary": "I specialize in developing and implementing technology solutions that drive business growth and operational efficiency. From creating a fully custom sales recommendation engine with a team of only 5 for IBM to automating data collection and building custom reporting tools, my focus is on delivering scalable, impactful results. With expertise in integrating systems like SalesForce and implementing modern CI tools, I thrive in leading development initiatives that align with company objectives and foster continuous innovation.",
     "profiles": [
       {
         "network": "LinkedIn",
@@ -66,6 +66,7 @@
   ],
   "work": [
     {
+      "name": "IBM",
       "company": "IBM",
       "position": "Full Stack Developer, Sales Systems Architect",
       "website": "http://ibm.com",
@@ -79,6 +80,7 @@
       ]
     },
     {
+      "name": "The Iron Yard",
       "company": "The Iron Yard",
       "position": "Lead Campus Director",
       "website": "http://theironyard.com",
@@ -93,6 +95,7 @@
       ]
     },
     {
+      "name": "dorton.co",
       "company": "dorton.co",
       "position": "Freelance Web Developer",
       "website": "http://dorton.co",
@@ -105,6 +108,7 @@
       ]
     },
     {
+      "name": "Houston Independent School District",
       "company": "Houston Independent School District",
       "position": "Campus Administrator",
       "website": "http://houstonisd.org",
@@ -117,6 +121,7 @@
       ]
     },
     {
+      "name": "Houston Independent School District",
       "company": "Houston Independent School District",
       "position": "District Curriculum Specialist - Education Technology",
       "website": "http://houstonisd.org",

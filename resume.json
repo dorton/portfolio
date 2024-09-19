@@ -70,6 +70,7 @@
   ],
   "work": [
     {
+      "name": "IBM",
       "company": "IBM",
       "position": "Full Stack Developer, Sales Systems Architect",
       "website": "http://ibm.com",
@@ -83,6 +84,7 @@
       ]
     },
     {
+      "name": "The Iron Yard",
       "company": "The Iron Yard",
       "position": "Lead Campus Director",
       "website": "http://theironyard.com",
@@ -97,6 +99,7 @@
       ]
     },
     {
+      "name": "dorton.co",
       "company": "dorton.co",
       "position": "Freelance Web Developer",
       "website": "http://dorton.co",
@@ -109,6 +112,7 @@
       ]
     },
     {
+      "name": "Houston Independent School District",
       "company": "Houston Independent School District",
       "position": "Campus Administrator",
       "website": "http://houstonisd.org",
