@@ -80,7 +80,7 @@
         "Built sales recommendation engine launched in 2023-2H with 4800 recommendations reviewed by reps, generating $7.8M in additional pipeline with $1.7M closed Won.",
         "Automated data collection and created custom tools for metrics and reporting for a department responsible for for over $50M in revenue.",
         "Implemented modern CI tooling to update and deploy applications on IBM's Cirrus Cloud network.",
-        "Tightly integrated data collected from sales reps with SalesForce data through SalefForce Api interface and building custom SalesForce Lightning applications."
+        "Integrated data collected from sales reps with SalesForce data through SalesForce Api interface and building custom SalesForce Lightning applications."
       ]
     },
     {
