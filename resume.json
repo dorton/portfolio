@@ -74,7 +74,8 @@
       "company": "IBM",
       "position": "Full Stack Developer, Sales Systems Architect",
       "website": "http://ibm.com",
-      "startDate": "2017-11-01",
+      "startDate": "2017-11-01",      
+      "endDate": "Present",
       "summary": "Supported a large sales team through building custom applications that streamline processes and automate the collection of data.",
       "highlights": [
         "Built sales recommendation engine launched in 2023-2H with 4800 recommendations reviewed by reps, generating $7.8M in additional pipeline with $1.7M closed Won.",
@@ -93,9 +94,9 @@
       "summary": "Running operations at The Iron Yard Academy's three-month intensive code schools personally focused on the Houston campus.",
       "highlights": [
         "Lead and contribute to company-wide initiatives that are aligned to The Iron Yard Mission and Vision",
-        "Support and manage a region of 6 campuses",
-        "Support campus level decisions ranging from student concerns to budget questions",
-        "Administer performance reviews"
+        "Supported and manage a region of 6 campuses",
+        "Supported campus level decisions ranging from student concerns to budget questions",
+        "Administered performance reviews"
       ]
     },
     {
@@ -120,8 +121,8 @@
       "endDate": "2014-8-30",
       "summary": "",
       "highlights": [
-        "Disaggregate and disseminate grade level common assessment data and district level assessment data as collected through the EdPlan system. Assist grade level teams in spotting trends using the data and designing interventions to address any gaps.",
-        "Ensure campus computers/mobile devices are maintained and running. Design and deliver technology professional development sessions to staff and beginning computer classes to parents. Oversee all campus technology initiatives."
+        "Disaggregated and disseminated grade level common assessment data and district level assessment data as collected through the EdPlan system. Assisted grade level teams in spotting trends using the data and designing interventions to address any gaps.",
+        "Ensured campus computers/mobile devices are maintained and running. Designed and delivered technology professional development sessions to staff and beginning computer classes to parents. Oversaw all campus technology initiatives."
       ]
     }
   ],
