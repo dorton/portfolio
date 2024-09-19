@@ -1,17 +1,13 @@
 {
+  "meta": {"theme": "jsonresume-theme-even"},
   "basics": {
     "name": "Brian Dorton",
     "label": "Full Stack Developer",
     "picture": "https://avatars1.githubusercontent.com/u/662645?v=4&s=460",
-    "image": "https://avatars1.githubusercontent.com/u/662645?v=4&s=460",
     "email": "brian@dorton.co",
     "phone": "(713) 922-5440",
     "url": "http://dorton.co",
-    "summary": "I specialize in developing and implementing technology solutions that drive business growth and operational efficiency. From creating a fully custom sales recommendation engine with a team of only 5 to automating data collection and building custom reporting tools, my focus is on delivering scalable, impactful results. With expertise in integrating systems like SalesForce and implementing modern tooling, I thrive in leading development initiatives that align with company objectives and foster continuous innovation.",
-    "location": {
-      "city": "Houston",
-      "region": "Texas"
-    },
+    "summary": "I specialize in developing and implementing technology solutions that drive business growth and operational efficiency. From creating a fully custom sales recommendation engine with a team of only 5 to automating data collection and building custom reporting tools, my focus is on delivering scalable, impactful results. With expertise in integrating systems like SalesForce and implementing modern CI tools, I thrive in leading development initiatives that align with company objectives and foster continuous innovation.",
     "profiles": [
       {
         "network": "LinkedIn",
@@ -118,6 +114,19 @@
       "highlights": [
         "Disaggregate and disseminate grade level common assessment data and district level assessment data as collected through the EdPlan system. Assist grade level teams in spotting trends using the data and designing interventions to address any gaps.",
         "Ensure campus computers/mobile devices are maintained and running. Design and deliver technology professional development sessions to staff and beginning computer classes to parents. Oversee all campus technology initiatives."
+      ]
+    },
+    {
+      "company": "Houston Independent School District",
+      "position": "District Curriculum Specialist - Education Technology",
+      "website": "http://houstonisd.org",
+      "startDate": "2008-8-01",
+      "endDate": "2011-8-01",
+      "summary": "Support technology integration for one of the largest school districts in the US.",
+      "highlights": [
+        "Lead over 100 hours of trainings for teachers across the district on the technology integration.",
+        "Support campus level decisions ranging from student concerns to budget questions",
+        "Administer performance reviews"
       ]
     }
   ],
