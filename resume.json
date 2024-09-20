@@ -35,9 +35,10 @@
       "name": "Front End",
       "level": "Senior",
       "keywords": [
+        "Typescript",
+        "React",
         "Javascript",
         "Vue",
-        "React",
         "HTML/JSX",
         "CSS"
       ]
