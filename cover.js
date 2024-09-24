@@ -76,11 +76,11 @@ function render() {
         </div>
 
         <div class="body">
-            <p>I enthusiastically submit my application for the ${data.position} position at ${data.company}. ${data.p1}</p>
+            <p>I enthusiastically submit my application for the  ${data.department ? `${data.department} ` : ''} ${data.position} position at ${data.company}. ${data.p1}</p>
 
             <p>${data.p2}</p>
 
-            <p>I am particularly drawn to ${data.company} because ${data.because} ${data.why}</p>
+            <p>I am particularly drawn to ${data.company} ${data.because} ${data.why}</p>
 
             <p>${data.closing}</p>
         </div>

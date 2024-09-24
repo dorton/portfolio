@@ -59,7 +59,10 @@ strong {
         box-shadow: none;
         border: none;
     }
-
+    .body p {
+        text-align: justify;
+        line-height: 1.6;
+    }
     #no-print {
         display: none;
     }
