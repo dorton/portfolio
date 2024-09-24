@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Brian Dorton",
-    "label": "Full Stack Developer",
+    "label": "Full Stack Engineer",
     "picture": "https://avatars1.githubusercontent.com/u/662645?v=4&s=460",
     "image": "https://avatars1.githubusercontent.com/u/662645?v=4&s=460",
     "email": "brian@dorton.co",
@@ -22,11 +22,6 @@
         "network": "Github",
         "username": "dorton",
         "url": "https://github.com/dorton"
-      },
-      {
-        "network": "Twitter",
-        "username": "badorton",
-        "url": "https://twitter.com/badorton"
       }
     ]
   },
@@ -35,10 +30,10 @@
       "name": "Front End",
       "level": "Senior",
       "keywords": [
-        "Typescript",
-        "React",
         "Javascript",
         "Vue",
+        "Typescript",
+        "React",
         "HTML/JSX",
         "CSS"
       ]
@@ -146,15 +141,11 @@
   "references": [
     {
       "name": "Mary Bentley (Principal, IBM)",
-      "reference": "I have worked with Brian for about two years now. We worked a on building and inference engine for sales automation in Salesforce. Brian was critical to the success of the project. His work ethic is second to none and his knowledge of the back end processes is remarkable. The project couldn't have happened without him."
+      "reference": "I have worked with Brian for about two years now. We worked on building an inference engine for sales automation in Salesforce. Brian was critical to the success of the project. His work ethic is second to none and his knowledge of the back end processes is remarkable. The project couldn't have happened without him."
     },
     {
       "name": "Michelle Do (Sales Analytics/Operations Leader, IBM)",
       "reference": "Brian is an extremely well-rounded team member and has been an absolute gem to work with. I can come to Brian with the most complex development requests, and he can make it come to life. There is never push-back on whether it may be impossible, and he integrates a user-friendly experience on top of his projects with even minimal direction. I fully recommend Brian to any full-stack development or business operation transformation role. He has been an invaluable asset in our sales operations transformations at IBM with the knowledge that he brings with application development, plug-in development, and API integration."
-    },
-    {
-      "name": "Jessica Mitsch (Executive Director, The Iron Yard)",
-      "reference": "Brian lights up any room he walks into. He was the founding Campus Director for The Iron Yard Houston and built an incredible community over the years that only someone with his kind of heartfelt passion, kindness and care could do. You’re a lucky person if you have the privilege to work with Brian!"
     }
   ]
 }
