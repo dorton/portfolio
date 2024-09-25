@@ -1,10 +1,10 @@
 {
   "scripts": {
     "cover": "nodemon cover.js",
-    "coverprinter": "/Applications/Google\\ Chrome.app/Contents/MacOS/Google\\ Chrome --headless --disable-gpu --print-to-pdf=./submitted_covers/BrianDortonCoverLetter.pdf --no-pdf-header-footer  http://localhost:3000/",
-    "resumeexport": "resume export resume_2024.html -t jsonresume-theme-rickosborne",
-    "resumeprinter": "/Applications/Google\\ Chrome.app/Contents/MacOS/Google\\ Chrome --headless --disable-gpu --print-to-pdf=./resume_2024.pdf --no-pdf-header-footer  file:///Users/briandorton/githubprojects/portfolio/resume_2024.html && cp ./resume_2024.pdf /Users/briandorton/Dropbox/job-hunt-2024/Resume-Brian-Dorton.pdf",
-    "buildresume": "npm run resumeexport && npm run resumeprinter"
+    "coverprinter": "/Applications/Google\\ Chrome.app/Contents/MacOS/Google\\ Chrome --headless --disable-gpu --print-to-pdf=./submitted_covers/Brian-Dorton-Cover-Letter.pdf --no-pdf-header-footer  http://localhost:3000/ cp ./submitted_covers/Brian-Dorton-Cover-Letter.pdf /Users/briandorton/Dropbox/job-hunt-2024/Brian-Dorton-Cover-Letter.pdf",
+    "resumeexport": "resume export resume_2024.html -t ./my-resume-theme",
+    "resumeprinter": "/Applications/Google\\ Chrome.app/Contents/MacOS/Google\\ Chrome --headless --disable-gpu --print-to-pdf=./resume_2024.pdf --no-pdf-header-footer  file:///Users/briandorton/githubprojects/portfolio/resume_2024.html && cp ./resume_2024.pdf /Users/briandorton/Dropbox/job-hunt-2024/Brian-Dorton-Resume.pdf",
+    "resumebuild": "npm run resumeexport && npm run resumeprinter"
   },
   "dependencies": {
     "@jsonresume/jsonresume-theme-professional": "^1.0.16",
