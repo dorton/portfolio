@@ -1,7 +1,8 @@
 {
   "scripts": {
     "cover": "nodemon cover.js",
-    "coverprinter": "/Applications/Google\\ Chrome.app/Contents/MacOS/Google\\ Chrome --headless --disable-gpu --print-to-pdf=./submitted_covers/Brian-Dorton-Cover-Letter.pdf --no-pdf-header-footer  http://localhost:3000/ cp ./submitted_covers/Brian-Dorton-Cover-Letter.pdf /Users/briandorton/Dropbox/job-hunt-2024/Brian-Dorton-Cover-Letter.pdf",
+    "coverprinter": "/Applications/Google\\ Chrome.app/Contents/MacOS/Google\\ Chrome --headless --disable-gpu --print-to-pdf=./submitted_covers/Brian-Dorton-Cover-Letter.pdf --no-pdf-header-footer  http://localhost:3000/ && cp ./submitted_covers/Brian-Dorton-Cover-Letter.pdf /Users/briandorton/Dropbox/job-hunt-2024/Brian-Dorton-Cover-Letter.pdf",
+    "coverbuild": "npm run cover && npm run coverprinter",
     "resumeexport": "resume export resume_2024.html -t ./my-resume-theme",
     "resumeprinter": "/Applications/Google\\ Chrome.app/Contents/MacOS/Google\\ Chrome --headless --disable-gpu --print-to-pdf=./resume_2024.pdf --no-pdf-header-footer  file:///Users/briandorton/githubprojects/portfolio/resume_2024.html && cp ./resume_2024.pdf /Users/briandorton/Dropbox/job-hunt-2024/Brian-Dorton-Resume.pdf",
     "resumebuild": "npm run resumeexport && npm run resumeprinter"

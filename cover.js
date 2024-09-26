@@ -72,11 +72,11 @@ function render() {
         </div>
 
         <div class="greeting">
-            ${data.department ? `<p>Dear ${data.department} Hiring Team,</p>` : ' <p>Dear Hiring Manager,</p>'}
+            ${data.department ? `<p>Dear ${data.department} Hiring Team,</p>` : ' <p>Dear Hiring Team,</p>'}
         </div>
 
         <div class="body">
-            <p>I enthusiastically submit my application for the  ${data.department ? `${data.department} ` : ''} ${data.position} position at ${data.company}. ${data.p1}</p>
+            <p>I enthusiastically submit my application for the  ${data.department ? `${data.department}, ` : ''} ${data.position} position at ${data.company}. ${data.p1}</p>
 
             <p>${data.p2}</p>
 
