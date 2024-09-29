@@ -80,7 +80,7 @@ function render() {
 
             <p>${data.p2}</p>
 
-            <p>I am particularly drawn to ${data.company} ${data.because} ${data.why}</p>
+            <p>${data.because} ${data.why}</p>
 
             <p>${data.closing}</p>
         </div>
