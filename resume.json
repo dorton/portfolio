@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Brian Dorton",
-    "label": "Full Stack Engineer",
+    "label": "Senior Full Stack Engineer",
     "picture": "https://avatars1.githubusercontent.com/u/662645?v=4&s=460",
     "image": "https://avatars1.githubusercontent.com/u/662645?v=4&s=460",
     "email": "brian@dorton.co",
@@ -68,7 +68,7 @@
     {
       "name": "IBM",
       "company": "IBM",
-      "position": "Full Stack Engineer, Sales Systems Architect",
+      "position": "Senior Full Stack Engineer, Sales Systems Architect",
       "website": "http://ibm.com",
       "startDate": "2017-11-01",      
       "endDate": "Present",
