@@ -50,13 +50,15 @@
         "PHP",
         "Laravel",
         "Postgres",
-        "Redis"
+        "Redis",
+        "SalesForce"
       ]
     },
     {
       "name": "Devops",
-      "level": "Mid",
+      "level": "Mid/Senior",
       "keywords": [
+        "SalesForce",
         "Docker",
         "Kubernetes",
         "Containerization",
@@ -73,7 +75,7 @@
       "company": "IBM",
       "position": "Senior Full Stack Engineer, Sales Systems Architect",
       "website": "http://ibm.com",
-      "startDate": "2017-11-01",      
+      "startDate": "2017-11-01",
       "endDate": "Present",
       "summary": "Support of a large sales team through building custom applications that streamline processes and automate the collection of data.",
       "highlights": [
