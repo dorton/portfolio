@@ -40,13 +40,16 @@
     },
     {
       "name": "Back End",
-      "level": "Mid",
+      "level": "Mid/Senior",
       "keywords": [
         "Node",
         "Ruby",
+        "Rails",
         "Python",
-        "Postgres",
+        "Django",
         "PHP",
+        "Laravel",
+        "Postgres",
         "Redis"
       ]
     },

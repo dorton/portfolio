@@ -44,9 +44,12 @@
       "keywords": [
         "Node",
         "Ruby",
+        "Rails",
         "Python",
-        "Postgres",
+        "Django",
         "PHP",
+        "Laravel",
+        "Postgres",
         "Redis"
       ]
     },
