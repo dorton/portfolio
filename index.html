@@ -122,10 +122,10 @@
 							<!-- Search icon -->
 							<a href="img/works/pickr.jpg" class="prettyphoto"><i class="fa fa-search br-red"></i></a>
 							<!-- Link Icon -->
-							<a href="https://pickr.dorton.dev/" target="_blank"><i class="fa fa-link br-black"></i></a>
+<!--							<a href="https://pickr.dorton.dev/" target="_blank"><i class="fa fa-link br-black"></i></a>-->
 							<a href="https://github.com/dorton/pickr" target="_blank"><i class="fa fa-github br-black"></i></a>
 						</div>
-						<h4><a href="https://pickr.dorton.dev/" target="_blank">SportsBall Pickr</a> -- <a
+						<h4><a href="https://github.com/dorton/pickr" target="_blank">SportsBall Pickr</a> -- <a
 								href="https://github.com/dorton/pickr"><i class="fa fa-github br-white"></i></a></h4>
 						<p>Organize contests and pick the winners of sportsball games against your friends.</p>
 						<div class="technology">
@@ -392,9 +392,9 @@
 			<div class="resume block">
 				<div class="block-head text-center">
 					<h2>My Resume</h2>
-					<p> <a href="resume_2024.html"><i class="fa fa-file-text fa-5x" id="resume-link" aria-hidden="true"></i></a>
+					<p> <a href="resume_2025.html"><i class="fa fa-file-text fa-5x" id="resume-link" aria-hidden="true"></i></a>
 					</p>
-					<p> <a href="resume_2024.pdf" id="resume-pdf">(or pdf)</a> </p>
+					<p> <a href="resume_2025.pdf" id="resume-pdf">(or pdf)</a> </p>
 				</div>
 			</div>
 
@@ -417,7 +417,7 @@
 					</ul>
 				</div>
 				<footer>
-					<p>Copyright &copy; 2024 <a href="#">Doton Dot Co.</a></p>
+					<p>Copyright &copy; <span id="current_year"></span> <a href="#">Doton Dot Co.</a></p>
 				</footer>
 				<span class="gotop"><a href="#"><i class="fa fa-chevron-up"></i></a></span>
 			</div>
@@ -436,6 +436,9 @@
 
 
 		<!-- Javascript files -->
+		<script>
+			document.getElementById("current_year").textContent = new Date().getFullYear();
+		</script>
 		<!-- jQuery -->
 		<script src="js/jquery.js"></script>
 		<!-- Bootstrap JS -->
@@ -476,7 +479,7 @@
 		<!-- Start of HubSpot Embed Code -->
 		<script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/47460204.js"></script>
 		<!-- End of HubSpot Embed Code -->
-
+	</div>
 </body>
 
 </html>

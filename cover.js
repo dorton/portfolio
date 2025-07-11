@@ -76,13 +76,15 @@ function render() {
         </div>
 
         <div class="body">
-            <p>I enthusiastically submit my application for the  ${data.department ? `${data.department}, ` : ''} ${data.position} position at ${data.company}. ${data.p1}</p>
+            <p>I enthusiastically submit my application for the  ${data.department ? `${data.department}, ` : ''} ${data.position} position at ${data.company}. ${data.opening_paragraph}</p>
 
-            <p>${data.p2}</p>
+            <p>${data.current_role}</p>
 
-            <p>${data.because} ${data.why}</p>
+            <p>${data.why_you_should_hire_me} </p>
+            
+            <p> ${data.additional_reasons}</p>
 
-            <p>${data.closing}</p>
+            <p>${data.closing_paragraph}</p>
         </div>
 
         <div class="closing">

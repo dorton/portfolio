@@ -40,7 +40,7 @@
     },
     {
       "name": "Back End",
-      "level": "Mid/Senior",
+      "level": "Senior",
       "keywords": [
         "Node",
         "Ruby",
@@ -71,12 +71,27 @@
   ],
   "work": [
     {
+      "name": "Dealerware (Contract)",
+      "company": "Dealerware",
+      "position": "Senior Ruby on Rails Engineer",
+      "website": "http://dealerware.com",
+      "startDate": "2024-11-01",
+      "endDate": "Present",
+      "summary": "Leading the build of a comprehensive car rental and fleet management platform for dealerships across North America. Built on Rails 7 with a React front end and Python/Node.js microservices, all deployed via AWS Lambda.",
+      "highlights": [
+        "Developed and maintained a Rails 7 application integrated with React, delivering a seamless UX for fleet operations.",
+        "Implemented Python-powered microservices and SQL data stores for contract processing and analytics.",
+        "Streamlined deployments using Docker containers and CircleCI pipelines.",
+        "Coordinated cross-functional design sessions to ensure scalability and data integrity."
+      ]
+    },
+    {
       "name": "IBM",
       "company": "IBM",
       "position": "Senior Full Stack Engineer, Sales Systems Architect",
       "website": "http://ibm.com",
       "startDate": "2017-11-01",
-      "endDate": "Present",
+      "endDate": "2024-10-31",
       "summary": "Support of a large sales team through building custom applications that streamline processes and automate the collection of data.",
       "highlights": [
         "Lead frontend team in building and maintaining a custom sales recommendation engine that generated over $7.8M in pipeline revenue.",

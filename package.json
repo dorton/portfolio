@@ -2,8 +2,8 @@
   "scripts": {
     "cover": "nodemon cover.js",
     "printcover": "node printcover.js",
-    "exportresume": "resume export resume_2024.html -t ./my-resume-theme",
-    "printresume": "/Applications/Google\\ Chrome.app/Contents/MacOS/Google\\ Chrome --headless --disable-gpu --print-to-pdf=./resume_2024.pdf --no-pdf-header-footer  file:///Users/briandorton/githubprojects/portfolio/resume_2024.html && cp ./resume_2024.pdf /Users/briandorton/Dropbox/job-hunt-2024/Brian-Dorton-Resume.pdf",
+    "exportresume": "resume export resume_2025.html -t ./my-resume-theme",
+    "printresume": "/Applications/Google\\ Chrome.app/Contents/MacOS/Google\\ Chrome --headless --disable-gpu --print-to-pdf=./resume_2025.pdf --no-pdf-header-footer  file:///Users/briandorton/githubprojects/portfolio/resume_2025.html && cp ./resume_2025.pdf /Users/briandorton/Dropbox/job-hunt-2025/Brian-Dorton-Resume.pdf",
     "buildresume": "npm run exportresume && npm run printresume"
   },
   "dependencies": {
