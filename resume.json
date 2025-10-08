@@ -71,12 +71,30 @@
   ],
   "work": [
     {
+      "name": "HexaContainment",
+      "company": "HexaContainment",
+      "position": "Manager, Software Engineering",
+      "website": "http://dealerware.com",
+      "startDate": "2025-09-15",
+      "endDate": "Present",
+      "summary": "Managing a team of engineers building a comprehensive ecommerce platform for industries across North America.",
+      "highlights": [
+        "Own architecture and design quality. Guide the team in making smart technical decisions, balancing pragmatism and long-term maintainability.",
+        "Drive roadmap progress: Partner with business leaders to shape the roadmap, align technical execution with business priorities, and keep projects on track",
+        "Surface and manage technical risks: Identify potential risks early and help the team navigate uncertainty with clear tradeoffs and communication",
+        "Support team members: Mentor engineers, help them grow in their craft, and foster a culture of accountability, trust, and collaboration",
+        "Collaborate with cross-functional partners to shape rough requirements and early-stage ideas into actionable, technically sound plans",
+        "Participate in code reviews, help set standards, and ensure best practices are followed across the codebase",
+        "Be hands-on writing code where needed"
+      ]
+    },
+    {
       "name": "Dealerware (Contract)",
       "company": "Dealerware",
       "position": "Senior Ruby on Rails Engineer",
       "website": "http://dealerware.com",
       "startDate": "2024-11-01",
-      "endDate": "Present",
+      "endDate": "2025-09-15 (As Needed)",
       "summary": "Leading the build of a comprehensive car rental and fleet management platform for dealerships across North America. Built on Rails 7 with a React front end and Python/Node.js microservices, all deployed via AWS Lambda.",
       "highlights": [
         "Developed and maintained a Rails 7 application integrated with React, delivering a seamless UX for fleet operations.",
